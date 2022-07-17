@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @weirdoldtech
+- 👀 I’m interested in weird old tech of course! Oh and trying out new projects and little coding problems
+- 🌱 I’m currently learning how to beep and how to boop, mostly arduino and pi stuff
+- Youtube Channel - https://www.youtube.com/channel/UCyYjxLKX3yTKds-_ZX0nWug
+- 
